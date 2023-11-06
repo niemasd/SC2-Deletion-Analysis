@@ -1,3 +1,7 @@
+# ignore all raw data
+*.fas.xz
+*.aln.xz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
